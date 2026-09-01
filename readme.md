@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ณวัฒน์ เรืองเดชาวิวัฒน์
 
-GitHub Page URL : 
+GitHub Page URL : https://nawat0035.github.io/11_lab-lab11-680610669/
 
 ---
 
